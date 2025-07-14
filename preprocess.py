@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 import random
 import hashlib
-from tqdm import tqdm
 import shutil
 
 # Set random seeds for reproducibility

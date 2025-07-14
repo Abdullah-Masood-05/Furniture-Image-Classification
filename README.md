@@ -1,6 +1,6 @@
 # Furniture Image Classification
 
-**Group Project** I created as a semester project in my 6th semster under supervision of [Dr. Khawaja Umar Suleman](https://www.linkedin.com/in/umar-suleman/) along with my fellow  [Bazil Suhail](https://github.com/BazilSuhail). 
+**Group Project** I created as a semester project in my 6th semster under supervision of [Dr. Yasir Niaz Khan](https://www.linkedin.com/in/yasirniaz/) along with my fellow  [Bazil Suhail](https://github.com/BazilSuhail). 
 
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
