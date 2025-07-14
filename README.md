@@ -19,8 +19,9 @@ dataset/
 
 Each folder must contain grayscale images (`.jpg`, `.jpeg`, `.png`) representing the corresponding class.
 
-**Dataset Download:**
-👉 [Dataset Google Drive Link](#https://drive.google.com/file/d/1XYokiyXlr6dloJP8EhQSwsLdj38e8GWg/view?usp=sharing)
+**Dataset Download:**  
+👉 [Dataset Google Drive Link](https://drive.google.com/file/d/1XYokiyXlr6dloJP8EhQSwsLdj38e8GWg/view?usp=sharing)
+
 
 ---
 
