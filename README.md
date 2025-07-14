@@ -1,6 +1,67 @@
 # Furniture Image Classification
 
-This project focuses on classifying images of furniture into five categories: **beds**, **dinning**, **office**, **plastic**, and **sofa**. The dataset is preprocessed and augmented using OpenCV, and training/testing data is saved in `.npy` format for ease of use in model development.
+**Group Project** I created as a semester project in my 6th semster under supervision of [Dr. Khawaja Umar Suleman](https://www.linkedin.com/in/umar-suleman/) along with my fellow  [Bazil Suhail](https://github.com/BazilSuhail). 
+
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+
+---
+
+### Overview 
+In this project **We** implemented a **pure Artificial Neural Network (ANN)** for furniture image classification, developed entirely from scratch using NumPy and other native libraries from python for calculational purposes. Our goal was to:
+
+1. Design and train a neural network **without high-level frameworks** (like TensorFlow/PyTorch)
+2. Classify furniture images into 5 categories:
+   - Beds
+   - Dining sets
+   - Office chairs
+   - Plastic furniture  
+   - Sofas
+
+Key technical aspects:
+- Implemented forward/backpropagation manually
+- Used NumPy for all matrix operations
+- Focused on core ANN concepts (activation functions, loss calculation, weight updates)
+
+
+---
+
+### 🤖 Tech Stack 
+
+ <a href="#"> 
+<img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
+<img alt="Neural Networks" src="https://img.shields.io/badge/Neural_Networks-%23FF6F00.svg?&style=for-the-badge&logo=deeplearning&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&style=for-the-badge&logo=matplotlib&logoColor=black"/>
+<img alt="tqdm" src="https://img.shields.io/badge/tqdm-%23FFD700.svg?&style=for-the-badge&logo=python&logoColor=blue"/>
+ </a>
+
+---
+
+### Key Contributions  
+1. **Dataset Preparation**  
+   - Collected and labeled furniture images across 5 classes.  
+   - Preprocessed and augmented data using **OpenCV** (resizing, normalization, rotations, flips).  
+   - Stored training/testing sets in `.npy` format for efficient model loading.  
+
+2. **Model Development**  
+   - Experimented with CNN architectures (e.g., ResNet, custom models).  
+   - Optimized hyperparameters for accuracy and computational efficiency.  
+
+3. **Collaborative Workflow**  
+   - Divided tasks between team members (data preprocessing, model training, evaluation).  
+   - Used Git for version control and collaborative coding.  
+
+### Outcome  
+Achieved **74.55% accuracy** and gained hands-on experience in end-to-end deep learning pipelines.  
+
+### Tools & Technologies  
+
+- Python, OpenCV
+- Data Augmentation, Transfer Learning  
+- NumPy for `.npy` data handling  
 
 ---
 
