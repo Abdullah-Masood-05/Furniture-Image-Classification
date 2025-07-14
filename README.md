@@ -1,6 +1,6 @@
 # Furniture Image Classification
 
-This project focuses on classifying grayscale images of furniture into five categories: **beds**, **dinning**, **office**, **plastic**, and **sofa**. The dataset is preprocessed and augmented using OpenCV, and training/testing data is saved in `.npy` format for ease of use in model development.
+This project focuses on classifying images of furniture into five categories: **beds**, **dinning**, **office**, **plastic**, and **sofa**. The dataset is preprocessed and augmented using OpenCV, and training/testing data is saved in `.npy` format for ease of use in model development.
 
 ---
 
